@@ -1,0 +1,3 @@
+关于malloc、calloc、realloc的区别 非常好的帖子
+
+http://blog.csdn.net/shuaishuai80/article/details/6140979
